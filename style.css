@@ -1,0 +1,11 @@
+.flexColumn, .flexRow { display: flex; }
+.flexColumn { flex-direction: column; }
+.flexRow { flex-direction: row; flex-wrap: wrap; }
+
+.alignStart, .start { align-items: start; }
+.alignCenter, .center { align-items: center; }
+.alignEnd, .end { align-items: end; }
+
+.justifyStart, .start { justify-content: start; }
+.justifyCenter, .center { justify-content: center; }
+.justifyEnd, .end { justify-content: end; }
